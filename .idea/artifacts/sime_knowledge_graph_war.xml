@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sime_knowledge_graph:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="sime_knowledge_graph.war">
+      <element id="artifact" artifact-name="sime_knowledge_graph:war exploded" />
+    </root>
+  </artifact>
+</component>
